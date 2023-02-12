@@ -1,5 +1,5 @@
-name: YouTube去广告
-desc: 去除YouTube视频广告(非首页广告)
+name: Hosts覆写
+desc: Hosts覆写
 hosts:
   'bear-register': 127.0.0.1
   'bear-mysql': 127.0.0.1
