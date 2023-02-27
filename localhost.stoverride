@@ -7,3 +7,4 @@ hosts:
   'bear-gateway': 127.0.0.1
   'bear-sentinel': 127.0.0.1
   'bear-monitor': 127.0.0.1
+  'taro.test': 127.0.0.1
