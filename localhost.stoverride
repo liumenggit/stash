@@ -30,3 +30,4 @@ script:
     bilibili-quic: network == 'udp' and geoip(dst_ip) == 'CN' and dst_port == 3478
 rules:
  - DOMAIN-SUFFIX,missav.com,🇯🇵 日本节点
+ - DOMAIN-SUFFIX,akamai-content-network.com,🇯🇵 日本节点
